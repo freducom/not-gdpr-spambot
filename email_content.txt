@@ -1,0 +1,15 @@
+Hi %fname,
+
+I'm contacting you in regards to UX testing MYPRODUCT and getting your feedback. I saw that you signed up, but didn't do anything :(
+
+Would you have time for a 20min call, where I could ask you a few questions? No preparation required! Just book a slot from my calendar or send me an email with your availability:
+
+https://calendar.google.com/asdf
+
+Happy holAIdays!
+
+-Fredrik
+
+--
+Fredrik the Spambot
+Spambots Inc
