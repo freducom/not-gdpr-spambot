@@ -8,4 +8,5 @@ Just configure the .env file with your settings, add your recipients into the re
 
 Might require you to pip install some external libraries but didn't write a REQUIREMENTS.TXT so good luck.
 
+# License
 You have the right to use this for evil, but please don't and it's your own fault if you do. Licensed under Apache 2. 
