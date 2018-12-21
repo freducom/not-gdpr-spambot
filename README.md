@@ -3,7 +3,7 @@ A small script that lets you send lotsa GDPR in-compliant emails from your local
 
 Sometimes sending transactional email is not valid and using an email service like MailChimp or Hubspot might not be a possibility, because you want stuff to look good and not be tracked.
 
-#Setup
+# Setup
 Just configure the .env file with your settings, add your recipients into the recipients.csv file and write your email content into the email_content.txt file and run the script.
 
 Might require you to pip install some external libraries but didn't write a REQUIREMENTS.TXT so good luck.
